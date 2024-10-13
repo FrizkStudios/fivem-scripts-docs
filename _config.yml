@@ -6,10 +6,12 @@ just_the_docs:
   logo: "/assets/logo.png"  # If you want to add a logo
   search_enabled: true      # Enable search functionality
   show_last_updated_time: true  # Show last updated time
-  aux_links:                 # Add links to GitHub or other sites
-    GitHub Repository:
-      - "https://github.com/frizkstudios/fivem-scripts-docs"
-  navigation:
+  
+  aux_links:  # Optional links in the navigation
+    "GitHub Repository":
+      url: "https://github.com/frizkstudios/fivem-scripts-docs"
+
+  navigation:  # Sidebar navigation
     - title: "Home"
       url: "/"
     - title: "Scripts"
