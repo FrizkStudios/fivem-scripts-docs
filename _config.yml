@@ -39,5 +39,3 @@ navigation:
         url: "/docs/scripts/arcade/editable"        
       - title: "Configuration"
         url: "/docs/scripts/arcade/configuration"
-  - title: "Advanced Server Log System"
-    url: "/docs/scripts/advanced_server_log_system"

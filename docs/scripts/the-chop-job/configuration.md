@@ -21,7 +21,7 @@ Config.standalone = false -- Set to true if you don't use any framework, but you
 Config.IdentifierType = 'steam' -- Identifier type to use for saving data to database
                                 -- You can use steam or license
 
-Config.MissionCooldown = 60 * 10 -- Cooldown in seconds between missions (1 hour)
+Config.MissionCooldown = 60 * 60 -- Cooldown in seconds between missions (1 hour)
 Config.RequiredPolice = 2 -- Minimum amount of police required to start a mission
 Config.MaxMissions = 3 -- Maximum amount of missions that can be active at the same time
                        -- Each mission require RequiredPolice amount of police officers
