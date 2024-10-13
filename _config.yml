@@ -15,9 +15,7 @@ just_the_docs:
 navigation:
   - title: "Home"
     url: "/"
-  - title: "Scripts"
-    children:  
-      - title: "The Chop Job"
-        url: "/docs/scripts/the_chop_job"
-      - title: "Advanced Server Log System"
-        url: "/docs/scripts/advanced_server_log_system"
+  - title: "The Chop Job"
+    url: "/docs/scripts/the_chop_job"
+  - title: "Advanced Server Log System"
+    url: "/docs/scripts/advanced_server_log_system"
