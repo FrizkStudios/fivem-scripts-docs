@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Advanced Server log System"
 nav_order: 3
 ---
 
