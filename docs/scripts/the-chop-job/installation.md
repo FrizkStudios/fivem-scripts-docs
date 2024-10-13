@@ -6,21 +6,9 @@ parent: "The Chop Job"
 
 # Installation Guide for The Chop Job
 
-To install **The Chop Job**, follow these steps:
-
-1. **Download the Script**
-   - You can download the latest version from the [GitHub Repository](https://github.com/frizkstudios/fivem-scripts-docs).
-
-2. **Install Dependencies**
-   - Make sure you have the following dependencies installed: [list dependencies].
-
-3. **Configure the Script**
-   - After downloading, place the script in your resources folder and add the following line to your `server.cfg`:
-     ```
-     start the_chop_job
-     ```
-
-4. **Start Your Server**
-   - Restart your server and the script should be loaded.
-
-For any issues during installation, please refer to the troubleshooting section.
+## Installation:
+- Put script in your resources directory and start in server config. 
+- If you want to use trackify app to locate vehicles then start that script also
+- Add items to ox_inventory
+- Configure script config
+- Setup your own functions in editable directory

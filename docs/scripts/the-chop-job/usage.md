@@ -6,16 +6,10 @@ parent: "The Chop Job"
 
 # Usage Instructions for The Chop Job
 
-Once **The Chop Job** is installed, you can use the following commands and features:
-
-## Commands
-- `/startheist` - [Description of what this command does]
-- `/endheist` - [Description of what this command does]
-
-## Configuration
-You can customize the script settings in the `config.lua` file located in the script folder.
-
-## Example
-Here’s a simple example of how to use the script:
-```lua
-TriggerEvent('the_chop_job:startHeist')
+- Start mission
+- Locate vehicle by using phone app "arrow up" bind and you can change it in fivem keys settings 
+- or if you've chosen that vehicle is findable by map blip then locate in the area on the map
+- Escape the police
+- Deliver the vehicle
+- Dismantle vehicle
+- Scrap parts of the vehicle in recycler from `kaiser_recycler`
