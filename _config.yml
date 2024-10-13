@@ -17,5 +17,12 @@ navigation:
     url: "/"
   - title: "The Chop Job"
     url: "/docs/scripts/the_chop_job"
+    children:
+      - title: "Overview"
+        url: "/docs/scripts/the_chop_job/overview"
+      - title: "Installation"
+        url: "/docs/scripts/the_chop_job/installation"
+      - title: "Usage"
+        url: "/docs/scripts/the_chop_job/usage"
   - title: "Advanced Server Log System"
     url: "/docs/scripts/advanced_server_log_system"
