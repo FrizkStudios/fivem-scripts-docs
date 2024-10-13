@@ -1,6 +1,6 @@
 ---
 title: "Editable functions"
-nav_order: 5
+nav_order: 4
 parent: "The Chop Job"
 ---
 

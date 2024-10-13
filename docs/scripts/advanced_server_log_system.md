@@ -1,6 +1,6 @@
 ---
 title: "Advanced Server log System"
-nav_order: 3
+nav_order: 4
 ---
 
 # Important

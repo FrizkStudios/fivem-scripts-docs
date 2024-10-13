@@ -1,6 +1,6 @@
 ---
 title: "Items list"
-nav_order: 4
+nav_order: 3
 parent: "The Chop Job"
 ---
 
@@ -11,7 +11,7 @@ parent: "The Chop Job"
 
 ```
     ['wheel0'] = {
-        label = 'Koło przednie lewe',
+        label = 'Front Left Wheel',
         weight = 100,
         consume = 0,
         client = {
@@ -25,7 +25,7 @@ parent: "The Chop Job"
     },
 
     ['wheel1'] = {
-        label = 'Koło przednie prawe',
+        label = 'Front Right Wheel',
         weight = 100,
         consume = 0,
         client = {
@@ -39,7 +39,7 @@ parent: "The Chop Job"
     },
 
     ['wheel2'] = {
-        label = 'Koło tylne lewe',
+        label = 'Rear Left Wheel',
         weight = 100,
         consume = 0,
         client = {
@@ -53,7 +53,7 @@ parent: "The Chop Job"
     },
 
     ['wheel3'] = {
-        label = 'Koło tylne prawe',
+        label = 'Rear Right Wheel',
         weight = 100,
         consume = 0,
         client = {
@@ -67,7 +67,7 @@ parent: "The Chop Job"
     },
 
     ['seat0'] = {
-        label = 'Siedzenie przednie lewe',
+        label = 'Front Left Seat',
         weight = 100,
         consume = 0,
         client = {
@@ -81,7 +81,7 @@ parent: "The Chop Job"
     },
 
     ['seat1'] = {
-        label = 'Siedzenie przednie prawe',
+        label = 'Front Right Seat',
         weight = 100,
         consume = 0,
         client = {
@@ -95,7 +95,7 @@ parent: "The Chop Job"
     },
 
     ['seat2'] = {
-        label = 'Siedzenie tylne lewe',
+        label = 'Rear Left Seat',
         weight = 100,
         consume = 0,
         client = {
@@ -109,7 +109,7 @@ parent: "The Chop Job"
     },
 
     ['seat3'] = {
-        label = 'Siedzenie tylne prawe',
+        label = 'Rear Right Seat',
         weight = 100,
         consume = 0,
         client = {
@@ -123,7 +123,7 @@ parent: "The Chop Job"
     },
 
     ['door0'] = {
-        label = 'Drzwi przednie lewe',
+        label = 'Front Left Door',
         weight = 100,
         consume = 0,
         client = {
@@ -137,7 +137,7 @@ parent: "The Chop Job"
     },
 
     ['door1'] = {
-        label = 'Drzwi przednie prawe',
+        label = 'Front Right Door',
         weight = 100,
         consume = 0,
         client = {
@@ -151,7 +151,7 @@ parent: "The Chop Job"
     },
 
     ['door2'] = {
-        label = 'Drzwi tylne lewe',
+        label = 'Rear Left Door',
         weight = 100,
         consume = 0,
         client = {
@@ -165,7 +165,7 @@ parent: "The Chop Job"
     },
 
     ['door3'] = {
-        label = 'Drzwi tylne prawe',
+        label = 'Rear Right Door',
         weight = 100,
         consume = 0,
         client = {
@@ -179,7 +179,7 @@ parent: "The Chop Job"
     },
 
     ['engine'] = {
-        label = 'Silnik',
+        label = 'Engine',
         weight = 100,
         consume = 0,
         client = {

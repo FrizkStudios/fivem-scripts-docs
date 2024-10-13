@@ -18,8 +18,6 @@ navigation:
   - title: "The Chop Job"
     url: "/docs/scripts/the_chop_job"
     children:
-      - title: "Overview"
-        url: "/docs/scripts/the_chop_job/overview"
       - title: "Installation"
         url: "/docs/scripts/the_chop_job/installation"
       - title: "Usage"
@@ -28,5 +26,14 @@ navigation:
         url: "/docs/scripts/the_chop_job/item_list"
       - title: "Editable functions"
         url: "/docs/scripts/the_chop_job/editable"
+  - title: "Arcade Arenas"
+    url: "/docs/scripts/arcade"
+    children:
+      - title: "Installation"
+        url: "/docs/scripts/arcade/installation"
+      - title: "Usage"
+        url: "/docs/scripts/arcade/usage"
+      - title: "Editable functions"
+        url: "/docs/scripts/arcade/editable"        
   - title: "Advanced Server Log System"
     url: "/docs/scripts/advanced_server_log_system"
