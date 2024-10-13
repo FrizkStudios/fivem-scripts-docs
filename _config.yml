@@ -1,5 +1,5 @@
 title: "Frizk Studios Scripts Documentation"  # Your documentation title
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 
 # Optional: Configuration for Just the Docs theme
 just_the_docs:
