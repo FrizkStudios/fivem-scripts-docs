@@ -11,10 +11,9 @@ just_the_docs:
     "GitHub Repository":
       url: "https://github.com/frizkstudios/fivem-scripts-docs"
 
-  navigation:  # Sidebar navigation
-    - title: "Home"
-      url: "/"
-    - title: "The Chop Job"
-      url: "/docs/the_chop_job"
-    - title: "Advanced Server Log System"
-      url: "/docs/advanced_server_log_system"
+  - title: "Scripts"
+    children:  
+      - title: "The Chop Job"
+        url: "/docs/the_chop_job"
+      - title: "Advanced Server Log System"
+        url: "/docs/advanced_server_log_system"
