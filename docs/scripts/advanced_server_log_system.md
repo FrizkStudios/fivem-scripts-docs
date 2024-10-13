@@ -1,8 +1,6 @@
 ---
-layout: default
-title: "Advacned Server Log System"
-parent: Scripts
-nav_order: 2
+title: "Home"
+nav_order: 3
 ---
 
 # Important

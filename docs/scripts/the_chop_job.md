@@ -1,8 +1,6 @@
 ---
-layout: default
-title: The Chop Job
-parent: Scripts
-nav_order: 1
+title: "Home"
+nav_order: 2
 ---
 
 # The Chop Job
