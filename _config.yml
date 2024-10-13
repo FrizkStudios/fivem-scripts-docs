@@ -18,3 +18,5 @@ just_the_docs:
       children:
         - title: "The Chop Job"
           url: "/docs/the_chop_job"
+        - title: "Advanced Server Log System"
+          url: "/docs/advanced_server_log_system"
