@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Advacned Server Log System"
 parent: Scripts
 nav_order: 2

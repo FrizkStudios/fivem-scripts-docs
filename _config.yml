@@ -18,6 +18,6 @@ navigation:
   - title: "Scripts"
     children:  
       - title: "The Chop Job"
-        url: "/docs/the_chop_job"
+        url: "/docs/scripts/the_chop_job"
       - title: "Advanced Server Log System"
-        url: "/docs/advanced_server_log_system"
+        url: "/docs/scripts/advanced_server_log_system"
