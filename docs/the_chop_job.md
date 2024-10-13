@@ -1,3 +1,9 @@
+---
+title: The Chop Job
+parent: Scripts
+nav_order: 1
+---
+
 # The Chop Job
 ## Dependiencies:
 
