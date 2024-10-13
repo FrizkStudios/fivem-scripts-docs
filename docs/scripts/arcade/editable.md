@@ -13,7 +13,6 @@ parent: "Arcade Arenas"
 ## Is dead function
 
 ```lua
-`client/your_functions.lua`
 -- Checks if the local player is dead.
 -- @return {boolean} - Returns true if the local player is dead, false otherwise.
 function isDead()
