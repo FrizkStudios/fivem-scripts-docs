@@ -15,3 +15,4 @@ Do not change the script name
 - `ox_lib`
 - `ox_target`
 - [kaiser_recycler](https://kaiser-shop.tebex.io/package/6496196)
+- `ox_mysql`
