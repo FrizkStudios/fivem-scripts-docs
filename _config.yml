@@ -9,3 +9,10 @@ just_the_docs:
   aux_links:                 # Add links to GitHub or other sites
     GitHub Repository:
       - "https://github.com/frizkstudios/fivem-scripts-docs"
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Scripts"
+      children:
+        - title: "The Chop Job"
+          url: "/docs/the_chop_job"
