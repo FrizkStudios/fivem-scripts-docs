@@ -1,6 +1,7 @@
 ---
 title: "Usage Instructions for The Chop Job"
 nav_order: 3
+parent: "The Chop Job"
 ---
 
 # Usage Instructions for The Chop Job

@@ -1,6 +1,7 @@
 ---
 title: "Installation Guide for The Chop Job"
 nav_order: 2
+parent: "The Chop Job"
 ---
 
 # Installation Guide for The Chop Job

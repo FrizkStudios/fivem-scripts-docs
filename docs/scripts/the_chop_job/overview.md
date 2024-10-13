@@ -1,6 +1,7 @@
 ---
 title: "The Chop Job Overview"
 nav_order: 1
+parent: "The Chop Job"
 ---
 
 # The Chop Job Overview
