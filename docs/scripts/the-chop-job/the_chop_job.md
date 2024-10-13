@@ -3,6 +3,7 @@ layout: default
 title: "The Chop Job"
 nav_order: 2
 has_children: true
+permalink: /docs/scripts/the-chop-job
 ---
 
 # The Chop Job
