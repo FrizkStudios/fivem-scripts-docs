@@ -7,6 +7,8 @@ just_the_docs:
   search_enabled: true      # Enable search functionality
   show_last_updated_time: true  # Show last updated time
 
+  color_scheme: "dark"
+
   aux_links:  # Optional links in the navigation
     "GitHub Repository":
       url: "https://github.com/frizkstudios/fivem-scripts-docs"
