@@ -1,5 +1,5 @@
 ---
-title: "The Chop Job Overview"
+title: "Overview"
 nav_order: 1
 parent: "The Chop Job"
 ---

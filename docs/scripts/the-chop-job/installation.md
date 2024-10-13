@@ -1,5 +1,5 @@
 ---
-title: "Installation Guide for The Chop Job"
+title: "Installation"
 nav_order: 2
 parent: "The Chop Job"
 ---
