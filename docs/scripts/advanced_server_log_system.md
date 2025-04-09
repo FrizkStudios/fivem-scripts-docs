@@ -7,6 +7,13 @@ nav_order: 4
 
 ### Do not change the script name
 
+# Commands
+
+`opentablet` - to open tablet
+`setaccesslogs id rank` - to set player rank 
+` id (number) (player source)`
+` rank (number) (based on your rank.lua, default 1 - superadmin, 5 user)`
+
 # Configs
 You can find configs in `/server/configs/`
 
